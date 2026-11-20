@@ -1,0 +1,38 @@
+
+[
+    {
+        "firstName": "Rahul",
+        "lastName": "Sharma",
+        "phoneNumbers": [
+            "9876543210",
+            "9876543211"
+        ],
+        "emails": [
+            "rahul@gmail.com",
+            "rahul@icloud.com"
+        ]
+    },
+    {
+        "firstName": "Amit",
+        "lastName": "Kumar",
+        "phoneNumbers": [
+            "9876543212"
+        ],
+        "emails": [
+            "amit@gmail.com",
+            "amit@work.com"
+        ]
+    },
+    {
+        "firstName": "Priya",
+        "lastName": "Singh",
+        "phoneNumbers": [
+            "9876543213",
+            "9876543214"
+        ],
+        "emails": [
+            "priya@gmail.com"
+        ]
+    }
+]
+
